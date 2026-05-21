@@ -58,12 +58,12 @@ This is where Claude Code looks for skills.
 From the `future-horizons-main` folder you unzipped:
 
 1. Open `.claude/skills/` inside the unzipped folder.
-2. Select all 3 skill folders.
+2. Select all 4 skill folders.
 3. Copy them: `Cmd + C` on Mac, `Ctrl + C` on Windows.
 4. Go to your home `.claude/skills/` folder (from Step 3).
 5. Paste them: `Cmd + V` on Mac, `Ctrl + V` on Windows.
 
-You should now have 3 new folders inside `~/.claude/skills/`. (If you already installed Pack 1, these sit alongside the existing seven.)
+You should now have 4 new folders inside `~/.claude/skills/`. (If you already installed Pack 1, these sit alongside the existing seven.)
 
 ### Step 5. Restart Claude Code
 
@@ -141,4 +141,4 @@ The skill will run for that conversation. Start a new chat to use a different sk
 
 ## Removing the skills
 
-Delete the 3 folders from `~/.claude/skills/`. That's it.
+Delete the 4 folders from `~/.claude/skills/`. That's it.
